@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-30T04:08:24.672Z",
+  "viewport": "1920x1080",
+  "quality": "auto",
+  "productionSmoke": "passed",
+  "productionSpeed": 89,
+  "fixtureScenarios": true,
+  "errors": [],
+  "scenarios": [
+    {
+      "name": "harbor-nitro",
+      "duration": 6.633100000000001,
+      "averageFPS": 50.50428909559633,
+      "frameTimeP95": 16.799999999999272,
+      "scaleRange": [
+        0.85,
+        0.85
+      ],
+      "frames": 335,
+      "drifting": 0,
+      "boosting": 202,
+      "maximumSpeed": 283.0973976963591,
+      "closestOpponent": 4.425081485479012,
+      "rankChanges": 4,
+      "gpu": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x0000A7A0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    },
+    {
+      "name": "downtown-overtaking",
+      "duration": 7.516300000000001,
+      "averageFPS": 56.277689820789476,
+      "frameTimeP95": 16.700000000000728,
+      "scaleRange": [
+        0.885,
+        0.885
+      ],
+      "frames": 423,
+      "drifting": 0,
+      "boosting": 0,
+      "maximumSpeed": 148.1506063709686,
+      "closestOpponent": 3.800039589348872,
+      "rankChanges": 0,
+      "gpu": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x0000A7A0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    },
+    {
+      "name": "drift-smoke-and-contact",
+      "duration": 7.5997,
+      "averageFPS": 58.02860639235759,
+      "frameTimeP95": 16.700000000000728,
+      "scaleRange": [
+        0.885,
+        0.92
+      ],
+      "frames": 441,
+      "drifting": 270,
+      "boosting": 0,
+      "maximumSpeed": 180.0766528377388,
+      "closestOpponent": 2.4860133294360347,
+      "rankChanges": 6,
+      "gpu": "ANGLE (Intel, Intel(R) Iris(R) Xe Graphics (0x0000A7A0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+    }
+  ]
+}

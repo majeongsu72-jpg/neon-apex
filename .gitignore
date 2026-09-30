@@ -1,0 +1,11 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.vite/
+artifacts/
+*.zip
+*.log
+.env
+.env.*
+!.env.example
